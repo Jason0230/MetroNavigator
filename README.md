@@ -35,5 +35,9 @@ git clone https://github.com/Jason0230/MetroNavigator.git
 2. The app calculates the route with minimal train switching
 3. Get real-time alerts when you're near a station or transfer point. 
 
+## Demo Video
+
+[![Watch the Video](http://img.youtube.com/vi/PU8Qpb5bBxQ/0.jpg)](http://www.youtube.com/watch?v=PU8Qpb5bBxQ)
+
 
 
